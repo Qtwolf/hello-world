@@ -47,6 +47,4 @@ if vida_enemigo <= 0:
 if vida_pikachu <= 0:
     print("Has perdido")
 
-
-
 print("El combate ha terminado")
